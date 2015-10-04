@@ -2,6 +2,6 @@
 
 This is the testing repo of Carmen IJsebaart.
 
-This is changed from github.
+This is changed from GitHub.
 
-This is changed from notepad
+This is changed from Notepad
